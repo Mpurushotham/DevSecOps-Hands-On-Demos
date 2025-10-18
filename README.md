@@ -647,7 +647,3 @@
 - **Tools:** OCI Database
 - **Hands-On:** Enable all security features
 
-**Video:** OCI Vault & Secrets Management
-- **Source:** YouTube - Oracle Cloud
-- **Link:** `https://www.youtube.com/watch?v=RJx9V5C7gBI`
-- **Duration
